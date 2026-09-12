@@ -1,0 +1,6 @@
+{
+  "name": "QASWARA",
+  "description": "War Era Strategy & Optimization Companion — professional decision platform for builds, war bonuses, and economy efficiency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
